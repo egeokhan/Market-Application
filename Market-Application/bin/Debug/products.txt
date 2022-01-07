@@ -1,0 +1,21 @@
+1;Chips;6
+2;Ice Cream;3
+3;Chocolate;5
+4;Peanut;4
+5;Bread;1
+6;Rice pudding;12
+7;Coffee;5
+8;Energy Drink;4
+9;Water;1
+0;Coca Cola 2 Liters;10
+10;Tea;6
+11;Cake;10
+12;Pasta;5
+13;Cheese;7
+14;Milk;4
+15;Egg;3
+16;Meat;15
+17;Chicken;10
+18;Oil;15
+19;Soup;3
+20;Yogurt;4
